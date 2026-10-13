@@ -1,0 +1,5 @@
+                     Models      RMSE  R2 Score
+0         Linear Regression  0.745581  0.575788
+1          Ridge Regression  0.702173  0.575791
+2  Decision Tree Regression  0.702173  0.623791
+3       Tuned Decision Tree  0.645363  0.682166
